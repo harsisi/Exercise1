@@ -32,7 +32,7 @@ namespace Exercise1
                     Minimum = line;
                 }
            }
-
+            Console.WriteLine("I am a new change in this file");
             //while ((line = file.ReadLine()) != null)
             //{
             //    System.Console.WriteLine(line);
@@ -42,7 +42,7 @@ namespace Exercise1
             //file.Close();
             ////System.Console.WriteLine("There were {0} lines.", counter);
             ////// Suspend the screen.  
-            ////System.Console.ReadLine();
+            System.Console.ReadLine();
         }
     }
 }
