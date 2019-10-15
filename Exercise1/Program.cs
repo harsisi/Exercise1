@@ -33,6 +33,8 @@ namespace Exercise1
                 }
            }
             Console.WriteLine("I am a new change in this file");
+            Console.WriteLine("I am a new change featuer");
+
             //while ((line = file.ReadLine()) != null)
             //{
             //    System.Console.WriteLine(line);
